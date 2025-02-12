@@ -1,0 +1,22 @@
+{
+  "name": "ask-and-trust",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Development of an online survey platform",
+  "workspaces": [
+    "app/frontend",
+    "app/backend"
+  ],
+  "directories": {
+    "doc": "docs",
+    "scripts": "scripts"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "survey"
+  ],
+  "author": "YohanGH, AlexDDevv, ArthurVS05, corenthin95",
+  "license": "GPL-2.0"
+}
